@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie-Trailer-react/static/css/main.daac6fcb.css",
+    "main.js": "/Movie-Trailer-react/static/js/main.54234b95.js",
+    "index.html": "/Movie-Trailer-react/index.html",
+    "main.daac6fcb.css.map": "/Movie-Trailer-react/static/css/main.daac6fcb.css.map",
+    "main.54234b95.js.map": "/Movie-Trailer-react/static/js/main.54234b95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daac6fcb.css",
+    "static/js/main.54234b95.js"
+  ]
+}
